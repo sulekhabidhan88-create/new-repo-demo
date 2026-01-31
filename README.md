@@ -1,2 +1,4 @@
 # new-repo-demo
-this is my first git repository - Author sulekha bidhan
+this is my first git repository 
+<br>
+Author sulekha bidhan
